@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build": "2",
-  "releaseNotes": "Versão de teste — indicador visual verde confirmando atualização automática.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.1/QuietMic-1.0.1.zip",
+  "version": "1.0.2",
+  "build": "3",
+  "releaseNotes": "Badge laranja — teste de auto-update.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.2/QuietMic-1.0.2.zip",
   "publishedAt": "2026-06-16"
 }
