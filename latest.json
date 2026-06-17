@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.5",
-  "build": "31",
-  "releaseNotes": "Correção de notificações: permissão solicitada em todos os cenários de inicialização.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.5/QuietMic-1.0.7.5.dmg",
+  "version": "1.0.7.6",
+  "build": "32",
+  "releaseNotes": "Botão de teste de notificação adicionado em Configurações.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.6/QuietMic-1.0.7.6.dmg",
   "publishedAt": "2026-06-17"
 }
