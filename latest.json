@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.7",
-  "build": "33",
-  "releaseNotes": "Diagnóstico melhorado no botão de teste de notificação.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.7/QuietMic-1.0.7.7.dmg",
+  "version": "1.0.7.8",
+  "build": "34",
+  "releaseNotes": "Notificação após 3 segundos de voz alta. Intervalo de 2 minutos entre alertas.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.8/QuietMic-1.0.7.8.dmg",
   "publishedAt": "2026-06-17"
 }
