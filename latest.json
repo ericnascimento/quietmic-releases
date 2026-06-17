@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.2",
-  "build": "28",
-  "releaseNotes": "Notificações aparecem mesmo com o app em primeiro plano.",
-  "downloadURL": "https://github.com/ericnascimento/quietmicapp/releases/download/v1.0.7.2/QuietMic-1.0.7.2.dmg",
+  "version": "1.0.7.3",
+  "build": "29",
+  "releaseNotes": "Correção do instalador automático.",
+  "downloadURL": "https://github.com/ericnascimento/quietmicapp/releases/download/v1.0.7.3/QuietMic-1.0.7.3.dmg",
   "publishedAt": "2026-06-17"
 }
