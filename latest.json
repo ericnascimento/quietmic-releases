@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "build": "16",
+  "version": "1.0.6.1",
+  "build": "17",
   "releaseNotes": "Melhorias de estabilidade.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.6/QuietMic-1.0.6.dmg",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.6.1/QuietMic-1.0.6.1.dmg",
   "publishedAt": "2026-06-17"
 }
