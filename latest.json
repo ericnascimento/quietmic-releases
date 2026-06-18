@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.13",
-  "build": "39",
-  "releaseNotes": "Medidor agora usa escala personalizada após calibração. Novo botão ? explica como funciona.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.13/QuietMic-1.0.7.13.dmg",
+  "version": "1.0.7.14",
+  "build": "40",
+  "releaseNotes": "Correção visual: botão ? fixo ao lado do /100.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.14/QuietMic-1.0.7.14.dmg",
   "publishedAt": "2026-06-18"
 }
