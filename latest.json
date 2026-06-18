@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.16",
-  "build": "42",
-  "releaseNotes": "Dois sliders de limite na tela principal: laranja (começando a ficar alto) e vermelho (muito alto).",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.16/QuietMic-1.0.7.16.dmg",
+  "version": "1.0.7.17",
+  "build": "43",
+  "releaseNotes": "Barra unificada: arraste os handles para ajustar os limites diretamente no medidor.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.17/QuietMic-1.0.7.17.dmg",
   "publishedAt": "2026-06-18"
 }
