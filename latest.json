@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.18",
-  "build": "44",
-  "releaseNotes": "Handles da barra agora são bolinhas coloridas sobre uma trilha fina, como um slider.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.18/QuietMic-1.0.7.18.dmg",
+  "version": "1.0.7.19",
+  "build": "45",
+  "releaseNotes": "Correção: bolinha vermelha agora sempre aparece na barra.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.19/QuietMic-1.0.7.19.dmg",
   "publishedAt": "2026-06-18"
 }
