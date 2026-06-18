@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.12",
-  "build": "38",
-  "releaseNotes": "Correção visual: popover abre sempre com aparência ativa.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.12/QuietMic-1.0.7.12.dmg",
+  "version": "1.0.7.13",
+  "build": "39",
+  "releaseNotes": "Medidor agora usa escala personalizada após calibração. Novo botão ? explica como funciona.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.13/QuietMic-1.0.7.13.dmg",
   "publishedAt": "2026-06-18"
 }
