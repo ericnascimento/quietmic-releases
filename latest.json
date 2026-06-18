@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.10",
-  "build": "36",
-  "releaseNotes": "Mensagem de notificação atualizada em 4 idiomas.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.10/QuietMic-1.0.7.10.dmg",
+  "version": "1.0.7.11",
+  "build": "37",
+  "releaseNotes": "Correção: notificações agora aparecem no idioma correto do sistema.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.11/QuietMic-1.0.7.11.dmg",
   "publishedAt": "2026-06-17"
 }
