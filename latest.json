@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.8",
-  "build": "34",
-  "releaseNotes": "Notificação após 3 segundos de voz alta. Intervalo de 2 minutos entre alertas.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.8/QuietMic-1.0.7.8.dmg",
+  "version": "1.0.7.9",
+  "build": "35",
+  "releaseNotes": "Mensagem de notificação atualizada.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.9/QuietMic-1.0.7.9.dmg",
   "publishedAt": "2026-06-17"
 }
