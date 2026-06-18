@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.19",
-  "build": "45",
-  "releaseNotes": "Correção: bolinha vermelha agora sempre aparece na barra.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.19/QuietMic-1.0.7.19.dmg",
+  "version": "1.0.7.20",
+  "build": "46",
+  "releaseNotes": "Correção: voz baixa agora aparece em verde, não azul.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.20/QuietMic-1.0.7.20.dmg",
   "publishedAt": "2026-06-18"
 }
