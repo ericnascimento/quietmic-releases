@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.14",
-  "build": "40",
-  "releaseNotes": "Correção visual: botão ? fixo ao lado do /100.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.14/QuietMic-1.0.7.14.dmg",
+  "version": "1.0.7.15",
+  "build": "41",
+  "releaseNotes": "Correção visual: NNN/100 sem espaço entre o número e a barra.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.15/QuietMic-1.0.7.15.dmg",
   "publishedAt": "2026-06-18"
 }
