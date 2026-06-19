@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.32",
-  "build": "58",
-  "releaseNotes": "Cor verde removida — azul, laranja e vermelho.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.32/QuietMic-1.0.7.32.dmg",
+  "version": "1.0.7.33",
+  "build": "59",
+  "releaseNotes": "Verificação de atualizações a cada 10 minutos.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.33/QuietMic-1.0.7.33.dmg",
   "publishedAt": "2026-06-19"
 }
