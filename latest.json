@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.27",
-  "build": "53",
-  "releaseNotes": "Badge versão na cor padrão. Medidor centralizado. Ícone pisca quando voz muito alta.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.27/QuietMic-1.0.7.27.dmg",
+  "version": "1.0.7.28",
+  "build": "54",
+  "releaseNotes": "Ícone na barra pisca rapidamente quando voz está muito alta.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.28/QuietMic-1.0.7.28.dmg",
   "publishedAt": "2026-06-18"
 }
