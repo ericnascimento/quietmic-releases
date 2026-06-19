@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.33",
-  "build": "59",
-  "releaseNotes": "Verificação de atualizações a cada 10 minutos.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.33/QuietMic-1.0.7.33.dmg",
+  "version": "1.0.7.34",
+  "build": "60",
+  "releaseNotes": "Última verificação agora exibe data e hora além do tempo relativo.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.34/QuietMic-1.0.7.34.dmg",
   "publishedAt": "2026-06-19"
 }
