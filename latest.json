@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.24",
-  "build": "50",
-  "releaseNotes": "Correção: cor da barra respeita os sliders corretamente. Números centralizados sob as bolinhas.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.24/QuietMic-1.0.7.24.dmg",
+  "version": "1.0.7.25",
+  "build": "51",
+  "releaseNotes": "Cor de voz baixa volta para azul.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.25/QuietMic-1.0.7.25.dmg",
   "publishedAt": "2026-06-18"
 }
