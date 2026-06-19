@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.25",
-  "build": "51",
-  "releaseNotes": "Cor de voz baixa volta para azul.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.25/QuietMic-1.0.7.25.dmg",
+  "version": "1.0.7.26",
+  "build": "52",
+  "releaseNotes": "Correção: números centralizados exatamente sob as bolinhas.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.26/QuietMic-1.0.7.26.dmg",
   "publishedAt": "2026-06-18"
 }
