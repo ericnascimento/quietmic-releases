@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.28",
-  "build": "54",
-  "releaseNotes": "Ícone na barra pisca rapidamente quando voz está muito alta.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.28/QuietMic-1.0.7.28.dmg",
+  "version": "1.0.7.29",
+  "build": "55",
+  "releaseNotes": "Assinado com Developer ID — permissão de microfone não é mais solicitada a cada atualização.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.29/QuietMic-1.0.7.29.dmg",
   "publishedAt": "2026-06-18"
 }
