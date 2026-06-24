@@ -1,3 +1,5 @@
+![QuietMic — macOS menu bar microphone level meter](https://raw.githubusercontent.com/ericnascimento/quietmic-releases/main/banner.png)
+
 # QuietMic
 
 **QuietMic is a macOS menu bar app that monitors your microphone level and gently alerts you when you are speaking too loudly on calls.**
