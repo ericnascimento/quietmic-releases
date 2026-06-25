@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.34",
-  "build": "60",
-  "releaseNotes": "Última verificação agora exibe data e hora além do tempo relativo.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.34/QuietMic-1.0.7.34.dmg",
-  "publishedAt": "2026-06-19"
+  "version": "1.0.7.35",
+  "build": "61",
+  "releaseNotes": "Correção: app se recupera automaticamente quando trava durante chamadas (Google Meet, Zoom, etc).",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.35/QuietMic-1.0.7.35.dmg",
+  "publishedAt": "2026-06-25"
 }
