@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7.36",
-  "build": "62",
-  "releaseNotes": "Correção do instalador automático — resolve loop de atualização no macOS Tahoe.",
-  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.36/QuietMic-1.0.7.36.dmg",
-  "publishedAt": "2026-06-25"
+  "version": "1.0.7.37",
+  "build": "63",
+  "releaseNotes": "Melhorias internas.",
+  "downloadURL": "https://github.com/ericnascimento/quietmic-releases/releases/download/v1.0.7.37/QuietMic-1.0.7.37.dmg",
+  "publishedAt": "2026-06-26"
 }
